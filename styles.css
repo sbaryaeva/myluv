@@ -15,7 +15,7 @@ body {
   
   h1 {
     font-size: 2.5em;
-    color: #cf5dec;
+    color: #9875f8;
   }
 
   h3 {
@@ -30,7 +30,7 @@ body {
     font-size: 1.5em;
     padding: 10px 20px;
     margin-right: 10px;
-    background-color: #9ebdeb;
+    background-color: #b0c7eb;
     color: white;
     border: none;
     border-radius: 5px;
@@ -40,7 +40,7 @@ body {
   .no-button {
     font-size: 1.5em;
     padding: 10px 20px;
-    background-color: #c738f3;
+    background-color: #6a38f3;
     color: white;
     border: none;
     border-radius: 5px;
