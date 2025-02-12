@@ -4,7 +4,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #f9e3ea;
+    background-color: #f9e3ef;
     font-family: 'Arial', sans-serif;
     flex-direction: column;
   }
@@ -15,7 +15,7 @@ body {
   
   h1 {
     font-size: 2.5em;
-    color: #9f2fd3;
+    color: #dc5dec;
   }
 
   h3 {
@@ -30,7 +30,7 @@ body {
     font-size: 1.5em;
     padding: 10px 20px;
     margin-right: 10px;
-    background-color: #9eb2eb;
+    background-color: #9ebdeb;
     color: white;
     border: none;
     border-radius: 5px;
@@ -40,7 +40,7 @@ body {
   .no-button {
     font-size: 1.5em;
     padding: 10px 20px;
-    background-color: #c02fd3;
+    background-color: #c331d6;
     color: white;
     border: none;
     border-radius: 5px;
